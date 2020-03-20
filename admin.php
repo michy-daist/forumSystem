@@ -3,7 +3,7 @@
 //管理者ページパスワード
 define('PASSWORD','sumple');
 
-define('DB_DATABASE','phpkiso');
+define('DB_DATABASE','sumple');
 define('DB_USERNAME','root');
 define('DB_PASSWORD','');
 define('PDO_DSN','mysql:dbhost=localhost;dbname='.DB_DATABASE.';charset=utf8');
